@@ -1,0 +1,20 @@
+# Hardware Items List (Ordered by Importance)
+
+1. ESP32 WROOM 32 Development Board
+2. AZDelivery OLED Display
+3. 2-Channel Relay Module
+4. Breadboard Solderless 830 Tie Dots PCB
+5. DHT11 Temperature & Humidity Sensor Module
+6. OcioDual HC-SR501 PIR Motion Sensor
+7. AZDelivery IR Infrared Module for Obstacle Detection
+8. HALJIA Digital Light Intensity Sensor Module
+9. Resistor Pack (220Ω, 1kΩ, 10kΩ) x30
+10. RGB LED x1
+11. Passive Buzzer x1
+12. Active Buzzer x1
+13. Dupont Jumper Wires (Female to Female) x10
+14. Dupont Jumper Wires (Female to Male) x10
+15. Dupont Jumper Wires (Male to Male) x10
+16. Tactile Push Button (4 Pins)
+17. Potentiometer (10kΩ)
+18. Red, Yellow, Green LEDs x15
