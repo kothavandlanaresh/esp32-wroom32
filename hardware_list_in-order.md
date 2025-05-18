@@ -1,5 +1,9 @@
 # Hardware Items List (Ordered by Importance)
 
+
+![Screenshot 2025-05-18 201828](https://github.com/user-attachments/assets/fbb7505e-fabe-43c9-8db9-273ef9c021c9)
+
+
 ## 1. ESP32 WROOM 32 Development Board
 **Description:** Universal Wi-Fi + Bluetooth + Bluetooth LE MCU Module.  
 **Specifications:**
@@ -23,6 +27,9 @@
 
 ---
 
+![Screenshot 2025-05-18 201816](https://github.com/user-attachments/assets/a4749dc7-d66a-4a05-9bea-fd5661ef3040)
+
+
 ## 2. AZDelivery OLED Display
 **Description:** AZDelivery 0.96 Inch OLED I2C Display.  
 **Specifications:**
@@ -40,6 +47,9 @@
 - Battery-powered projects.
 
 ---
+
+![Screenshot 2025-05-18 201839](https://github.com/user-attachments/assets/c6cdd5c7-5e79-4f84-aa37-31505cc21cce)
+
 
 ## 3. 2-Channel Relay Module
 **Description:** 5V 2-channel relay module.  
@@ -69,6 +79,8 @@
 
 ---
 
+![Screenshot 2025-05-18 201930](https://github.com/user-attachments/assets/7f38f2d3-0367-4f3d-a1bf-8dff27ae9e89)
+
 ## 5. DHT11 Temperature & Humidity Sensor Module
 **Description:** Digital sensor for measuring temperature and humidity.  
 **Specifications:**
@@ -81,6 +93,8 @@
 - Weather stations.
 
 ---
+
+![Screenshot 2025-05-18 201824](https://github.com/user-attachments/assets/bb18cd4e-c9b8-4f85-b69d-ab16552903a6)
 
 ## 6. OcioDual HC-SR501 PIR Motion Sensor
 **Description:** Infrared Passive Infrared (PIR) Motion Sensor Module.  
@@ -95,6 +109,8 @@
 
 ---
 
+![Screenshot 2025-05-18 201927](https://github.com/user-attachments/assets/03b8d645-20cf-4c37-b596-a77cb64aa326)
+
 ## 7. AZDelivery IR Infrared Module for Obstacle Detection
 **Description:** Infrared proximity sensor for obstacle detection.  
 **Specifications:**
@@ -106,6 +122,8 @@
 - Distance measurement for robotics.
 
 ---
+
+![Screenshot 2025-05-18 201923](https://github.com/user-attachments/assets/c5f4921b-dd74-473e-83b6-096d8577ab84)
 
 ## 8. HALJIA Digital Light Intensity Sensor Module
 **Description:** A light intensity sensor module using a photoresistor.  
@@ -183,6 +201,8 @@
 
 ---
 
+![Screenshot 2025-05-18 201937](https://github.com/user-attachments/assets/88939458-1fa9-4091-bc7d-babc3d679c58)
+
 ## 16. Tactile Push Button (4 Pins)
 **Description:** A compact, momentary tactile push button with 4 pins.  
 **Applications:**
@@ -190,6 +210,9 @@
 - Reset or mode selection buttons.
 
 ---
+
+![Screenshot 2025-05-18 201934](https://github.com/user-attachments/assets/4f58680d-7b51-4034-b91c-0eb0467c7c59)
+
 
 ## 17. Potentiometer (10kΩ)
 **Description:** A 10kΩ variable resistor (potentiometer).  
